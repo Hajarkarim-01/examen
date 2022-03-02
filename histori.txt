@@ -1,0 +1,501 @@
+   47  git bash
+   48  git 
+   49  git status
+   50  git add
+   51  git add .
+   52  ls
+   53  cd Documents/
+   54  ls
+   55  mkdir prueba
+   56  ls
+   57  cd prueba/
+   58  ls
+   59  git add .
+   60  git init
+   61  git status
+   62  ls -la
+   63  touch nuevo.txt
+   64  git status
+   65  git add nuevo.txt
+   66  git satatus
+   67  git status
+   68  git commit -m "firstcommit"
+   69  git status
+   70  echo "hola">nuevo.txt 
+   71  git status
+   72  git status
+   73  git init
+   74  ls
+   75  git status
+   76  git remov file
+   77  git --help
+   78  rm '
+   79  $ rm 
+   80  $ git rm 
+   81  git rm
+   82  git rm nuevo.txt
+   83  git --cached
+   84  git status
+   85  git commit
+   86  git diff 
+   87  git div --staged
+   88  git diff -staged
+   89  git diff --staged
+   90  git gigit 
+   91  git diff --cached
+   92  git diff
+   93  git diff staged
+   94  git status
+   95  mkdir projecto
+   96  cd projecto
+   97  git help config
+   98  git help
+   99  mkdire jenny
+  100  mkdir jenny
+  101  $ mkdir project.git
+  102  mkdir project.git
+  103  cd project.git
+  104  git init
+  105  echo"hello word"
+  106  echo "hello word"
+  107  git status
+  108  git add .
+  109  git commit -m "confirmhelloword"
+  110  git status
+  111  echo "new text"
+  112  git status
+  113  git add
+  114  git checkout
+  115  git diff
+  116  git commit -m "lastpush"
+  117  gti help
+  118  git statuts
+  119  git status
+  120  git add.
+  121  git status
+  122  git add.
+  123  git --help
+  124  add.
+  125  git add nuevoFile.
+  126  git rm 
+  127  yes
+  128  ls 
+  129  css/ index.html javascript/
+  130  git branch 
+  131  css
+  132  git branch css
+  133  git branch
+  134  css 
+  135  git branch
+  136  git branch Jenny
+  137  git branch
+  138  cl
+  139  cd users
+  140  git --version
+  141  pwd
+  142  ls
+  143  ls -l
+  144  ls -al
+  145  clear
+  146  pwd
+  147  cd desktop
+  148  ls
+  149  mkdir git-practice
+  150  cd git 
+  151  mkdir git-practice
+  152  pwd
+  153  cd git-practice
+  154  pwd
+  155  git init
+  156  ls
+  157  touch index.html
+  158  touch scrips.js
+  159  touch styles.css
+  160  ls
+  161  git status
+  162  echo "oracticing git" >file.txt
+  163  explorer
+  164  clear
+  165  ls
+  166  git status
+  167  git add file.txt
+  168  git commit -m "adding my first commit"
+  169  git statuts
+  170  git status
+  171  clear
+  172  rm index.html
+  173  rm script.js
+  174  rm styles.css
+  175  ls
+  176  rm scrips.js
+  177  ls
+  178  file.txt
+  179  explorer
+  180  explorer
+  181  git status
+  182  git add file.txt
+  183  git commit -m "change the text "
+  184  git log
+  185  git a425b8493e66e02f22fe7b6b8582312d74de6852
+  186  clear
+  187  git config --global
+  188  git config --global user.name "Hajar Karim"
+  189  git config --global --list
+  190  git config --global user.email "hajarkarim.es@gmail.com"
+  191  git config --global --list
+  192  cd desktop
+  193  ls
+  194  cd desktop/
+  195  pwd
+  196  ls
+  197  cd pwd
+  198  cd pwd
+  199  pwd
+  200  clear
+  201  pwd
+  202  cd dektop/
+  203  clear
+  204  ls
+  205  cd git
+  206  mkdir git-branching
+  207  pwd
+  208   cd git-branching
+  209  pwd
+  210  git branch 
+  211  git branch scroll
+  212  clear
+  213  touch index.html
+  214  git add -A
+  215  git commit -m "added a file"
+  216  git log 
+  217  clear
+  218  touch index.html 
+  219  git add index.html
+  220  clear
+  221  touch hajar
+  222  git add hajar
+  223  clear
+  224  touch master
+  225  git add -A
+  226  touch fmaster
+  227  touch hajar
+  228  git add hajar
+  229  ls
+  230  cd dektop/
+  231  cd Desktop/
+  232  cd hajar
+  233  cd Desktop/
+  234  cd branching
+  235  ccd ..
+  236  cd ..
+  237  cd.. /..
+  238  cd ../..
+  239  cd Desktop/
+  240  cd Desktop/
+  241  clear
+  242  cd Desktop/
+  243  cd Desktop
+  244  cd branching 
+  245  clear
+  246  cd ..
+  247  cd..
+  248  cd ..
+  249  rm 
+  250  git rm
+  251  ls 
+  252  cd Desktop/
+  253  ls -l
+  254  ls -l
+  255  ls -a
+  256  ls -la
+  257  clear
+  258  cd branching 
+  259  git branch
+  260  git branch Scroll
+  261  touch text.html
+  262  git add .
+  263  cd Desktop/
+  264  cd branching 
+  265  touch hajar.html
+  266  git add .
+  267  rm -f ./.git/index.lock
+  268  touch hajar.html
+  269  git add .
+  270  rm -f ./.git/index.lock
+  271  git add .
+  272  git commit -m "first push"
+  273  git version
+  274  git config --global
+  275  git config --global user.name
+  276  git config --global user.email
+  277  git config --list
+  278  ls
+  279  ll
+  280   cd desktop
+  281  ls
+  282    git init 
+  283  ls -alh
+  284  vim .gitignore
+  285  cd desktop
+  286  ls
+  287  git init 
+  288  vim .gitignore
+  289  git status
+  290  cd git-test
+  291  git status
+  292  ls
+  293  git satutuds
+  294  git status
+  295  git add -A
+  296  git reset
+  297  git reset -- head
+  298  cd Desktop/
+  299  cd git-test
+  300  git status
+  301  cd folder1
+  302  cd..
+  303  cd ..
+  304  ls
+  305  git add -A
+  306  git status
+  307  git add 
+  308  git add .
+  309  git satus
+  310  git satatus
+  311  git status
+  312  cd Desktop/
+  313  cd Git-ex
+  314  git status
+  315  dir
+  316  git checkout master
+  317  git remote -v
+  318  git status
+  319  ls -la
+  320  rm -rf .git
+  321  git status
+  322  ls -la
+  323  cd .ssh/
+  324  ls
+  325  cd ..
+  326  cd simpleGitProgit/
+  327  ls -la
+  328  git status
+  329  cd ..
+  330  git 
+  331  git status
+  332  ssh -T git@github.com
+  333  git status
+  334  pwd
+  335  cd Desktop/
+  336  cd github
+  337  ssh -T git@github.com
+  338  cd ~
+  339  cd ~/.ssh
+  340  ssh -keygen
+  341  ssh-keygen
+  342  ls
+  343  cat id_rsa.pub 
+  344  pwd
+  345  cd ..
+  346  cd Desktop/
+  347  cd github
+  348  git remote add git@github.com:Hajarkarim-01/JennyProject.git
+  349  git remote add origin git@github.com:Hajarkarim-01/JennyProject.git
+  350  git remote rm origin
+  351  git remote add origin git@github.com:Hajarkarim-01/JennyProject.git
+  352  cd Desktop/
+  353  mkdir project.git
+  354  git init 
+  355  echo file1
+  356  git status 
+  357  rm -rf .git
+  358  git status
+  359  cd project.git
+  360  git init 
+  361  echo file1
+  362  git status
+  363    echo file2
+  364  git statsu 
+  365  git status
+  366  git branch
+  367  git branch jenny
+  368  git branch master 
+  369  git status 
+  370  echo file3
+  371  git status 
+  372  git add 
+  373  git add .
+  374  git commit -m "first commit"
+  375  cd Desktop/
+  376  cd project.git
+  377  git branch
+  378  git branch scroll 
+  379  cd de
+  380  cd desktop
+  381  cd desktop
+  382  cd user
+  383  mkdir examen
+  384  cd examen
+  385  mkdir planets
+  386  cd planets
+  387  git init 
+  388  ls
+  389  ls -a
+  390  git status
+  391  cd ..
+  392  mkdir moons
+  393  cd moons
+  394  git init
+  395  cd ..
+  396  cd planets
+  397  touch mars.txt
+  398  git global --
+  399  git config --global core.editor "nano -w"
+  400  nano mars.txt
+  401  ls
+  402  cat mars.txt
+  403  git status
+  404  git add .
+  405  git status
+  406  git commit -m"Start notes on Mars as a base"
+  407  git branch
+  408  git status
+  409  git status
+  410  git log --all --graph
+  411  ls
+  412  nano mars.txt
+  413  cat mars.txt
+  414  nano mars.txt
+  415  cat mars.txt
+  416  git status
+  417  git diff --cached
+  418  git add .
+  419  git commit -m "second commit"
+  420  git diff --cached
+  421  git diff
+  422  git diff HEAD mars.txt
+  423  git log --all --graph
+  424  git diff --staged
+  425  git add .
+  426  git status
+  427  git diff
+  428  nano mars.txt
+  429  git status
+  430  git diff
+  431  git add .
+  432  cat mars.txt
+  433  nano mars.txt
+  434  git diff
+  435  git status
+  436  git add .
+  437  git commit -m"third commit"
+  438  git status
+  439  git --emita "Discuss concers about Mars' climate for Mumy'
+git --emita "Discuss concers about Mars' climate for Mumy'"
+  440  git --help
+  441  git log --all --graph
+  442  git log -1
+  443  git log --oneline
+  444  git log --online --graph -- all --decorate
+  445  git log --oneline --graph -- all --decorate
+  446  git log --oneline --graph --all --decorate
+  447   nano mars.txt
+  448  git status
+  449  gti add .
+  450  git add .
+  451   nano mars.txt
+  452  nano mars.txt
+  453  git status
+  454  git commit -m "quiero moverme a venus"
+  455  touch venus.txt
+  456  nano venus.txt
+  457  git status
+  458  git reset
+  459  git log --all --graph
+  460  nano mars.txt
+  461  nano venus.txt
+  462  git add mars.txt venus.txt
+  463  cat mars.txt
+  464  cat venus.txt
+  465  git add mars.txt
+  466  git add venus.txt
+  467  git status
+  468  git commit -m "Write plans to start a base on venus"
+  469  git log --format=full
+  470  git commit --author="Valad Dracula <Vlad@tran.sylvan.ia>"
+  471  cd ..
+  472  mkdir Author_committer
+  473  cd Author_committer
+  474  touch prueba.txt
+  475  nano prueba.txt
+  476  git status
+  477  git init 
+  478  touch prueba.txt
+  479  git status
+  480  nano prueba.txt
+  481  git status
+  482  git add .
+  483  git status
+  484  git commit -m "chages in the file prueba"
+  485  nano prueba.txt
+  486  git commit --chechu="Chechux <chechu@gmail.com>"
+  487  git commit "ahora voy aseniar commit a mi colega" --chechu="Chechux <chechu@gmail.com>"
+  488  git commit -m "ahora voy aseniar commit a mi colega" --chechu="Chechux <chechu@gmail.com>"
+  489  cd ..
+  490  cd planets
+  491  nano mars.txt
+  492  cat mars.txt
+  493  git diff HEAD mars.txt
+  494  nano mars.txt
+  495  git diff HEAD mars.txt
+  496  nano mars.txt
+  497  git status
+  498  git checkout HEAD mars.txt
+  499  cat mars.txt
+  500  git status
+  501  git checkout HEAD
+  502  nano venus.txt
+  503  git status
+  504  nano venus.txt
+  505  git commit -m "Comment on Venus as an unsuitable base "
+  506  git add .
+  507  git commit -m "Comment on Venus as an unsuitable base "
+  508  cd ..
+  509  mkdir results
+  510  touch a.dat b.dat c.dat results/a.out results/b.out
+  511  git status
+  512  git init
+  513  touch a.dat b.dat c.dat results/a.out results/b.out
+  514  git status
+  515  rm -rf .git
+  516  cd results
+  517  touch a.dat b.dat c.dat results/a.out results/b.out
+  518  git status
+  519  git init
+  520  touch a.dat b.dat c.dat results/a.out results/b.out
+  521  git ignore a.dat b.dat
+  522  touch ignore
+  523  git .ignore a.dat b.dat
+  524  rm ignore
+  525  touch 
+  526  touch .gitignore
+  527  nano .gitignore
+  528  git status
+  529  nano .gitignore
+  530  git status
+  531  git add .gitignore 
+  532  git commit -m "subido gitignore"
+  533  git status
+  534  pwd
+  535  git remote add origin https://github.com/Hajarkarim-01/examen.git
+  536  git remote add origin git@github.com:Hajarkarim-01/examen.git
+  537  git remote -v
+  538  cd ..
+  539  cd planets/
+  540  git remote -v
+  541  git remote add origin git@github.com:Hajarkarim-01/examen.git
+  542  git remote -v
+  543  git push -u origin main
+  544  git push -u origin master
+  545  git status
+  546  history>histori.txt
